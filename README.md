@@ -1,6 +1,6 @@
 # Agrobiodiversity mind map
 Hello!
-This is a project being carried out at the <a href="http://www.biocomp.org.br/">BioComp laboratory</a> of the University of São Paulo in partnership with the Brazilian Agricultural Research Corporation (Embrapa). 
+This map is part of a project being carried out at the <a href="http://www.biocomp.org.br/">BioComp laboratory</a> of the University of São Paulo in partnership with the Brazilian Agricultural Research Corporation (Embrapa). Downlod the latest version <a href="https://github.com/Filipi-Soares/agrobiodiversity-framework/blob/master/agobio_mind_map_v.1.02.cmap">here</a>. 
 
 The main reference source from which the concepts and definitions in the map came from is:
 
