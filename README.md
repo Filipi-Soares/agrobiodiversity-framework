@@ -13,5 +13,5 @@ We recommend not to use the web version of CmapTools since it doesn't support th
 
 
 # Recommended citation:
-Soares, F. M, Saraiva, A. M., & Drucker, D. P. (2020). Linking Agrobiodiversity Data through Metadata Standards. Biodiversity Information Science and Standards, 4, Forthcoming.
+Soares FM, Saraiva AM, Drucker DP (2020) Linking Agrobiodiversity Data through Metadata Standards. Biodiversity Information Science and Standards 4: e58928. https://doi.org/10.3897/biss.4.58928
 
